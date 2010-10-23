@@ -1,7 +1,7 @@
 # Introduction to Jasmine, BDD for JavaScript
 ## Given at the East Bay Ruby Meetup, 2010.10.19
 
-This repo is a presentation, in a single HTML file, that I gave at the EBRM.
+This repo is a presentation, in a single HTML file, that I gave at the EBRM.  Thanks for Jon Seidel for inviting me to speak.
 
 To view, open [`jasmine-intro.html`](/jasmine-intro.html) in a reasonable HTML browser (Chrome, Safari, Firefox).
 
